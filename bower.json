@@ -1,0 +1,30 @@
+{
+  "name": "bower-basics",
+  "homepage": "anandsant24.com",
+  "authors": [
+    "AnandSant"
+  ],
+  "description": "1.0",
+  "main": "my bower project",
+  "keywords": [
+    "bower",
+    "racehorces"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "sinon": "1.14.1",
+    "bootstrap": "~3.1.1",
+    "angular": "~1.2.16"
+  },
+  "devDependencies": {
+    "jasmine-core": "jasmine#^2.4.1"
+  }
+}
